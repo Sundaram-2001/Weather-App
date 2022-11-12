@@ -1,0 +1,16 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "This is a JS file just for understanding the working of an API",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SUNDARAM",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
